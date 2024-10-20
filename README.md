@@ -2,7 +2,7 @@
 
 ## Tecnologías Utilizadas
 - ASP.NET Core:  Implementación de la lógica de negocio mediante clases que reflejan las tablas existentes y llamadas a procedimientos almacenados en la capa de datos.
-- SQL Server: Base de datos que contiene las tablas Alumnos y AlumnoGradoInstruccion.
+- SQL Server: Base de datos que contiene las tablas Alumnos y GradoInstruccion.
 - Angular: Realiza solicitudes HTTP a las APIs del backend desplegadas en el servidor local IIS para obtener, agregar, actualizar o eliminar datos de los alumnos. Los datos recibidos se muestran en la interfaz de usuario organizada en tablas.
 
 ## Arquitectura del Proyecto
