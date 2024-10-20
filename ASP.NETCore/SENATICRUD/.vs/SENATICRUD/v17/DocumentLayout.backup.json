@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alonso\\OneDrive\\SEM_COMPLET_PRACTICA_II\\SENATICRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3294018-78B2-4B54-9F6E-28BF61B268E0}|SENATICRUD\\SENATICRUD.csproj|c:\\users\\alonso\\onedrive\\sem_complet_practica_ii\\senaticrud\\senaticrud\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3294018-78B2-4B54-9F6E-28BF61B268E0}|SENATICRUD\\SENATICRUD.csproj|solutionrelative:senaticrud\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3294018-78B2-4B54-9F6E-28BF61B268E0}|SENATICRUD\\SENATICRUD.csproj|c:\\users\\alonso\\onedrive\\sem_complet_practica_ii\\senaticrud\\senaticrud\\data\\alumnodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3294018-78B2-4B54-9F6E-28BF61B268E0}|SENATICRUD\\SENATICRUD.csproj|solutionrelative:senaticrud\\data\\alumnodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84191AE6-6090-41D2-902B-B343FDDC5016}|SENATIAPI\\SENATIAPI.csproj|c:\\users\\alonso\\onedrive\\sem_complet_practica_ii\\senaticrud\\senatiapi\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84191AE6-6090-41D2-902B-B343FDDC5016}|SENATIAPI\\SENATIAPI.csproj|solutionrelative:senatiapi\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3294018-78B2-4B54-9F6E-28BF61B268E0}|SENATICRUD\\SENATICRUD.csproj|c:\\users\\alonso\\onedrive\\sem_complet_practica_ii\\senaticrud\\senaticrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3294018-78B2-4B54-9F6E-28BF61B268E0}|SENATICRUD\\SENATICRUD.csproj|solutionrelative:senaticrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3294018-78B2-4B54-9F6E-28BF61B268E0}|SENATICRUD\\SENATICRUD.csproj|c:\\users\\alonso\\onedrive\\sem_complet_practica_ii\\senaticrud\\senaticrud\\business\\alumnobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3294018-78B2-4B54-9F6E-28BF61B268E0}|SENATICRUD\\SENATICRUD.csproj|solutionrelative:senaticrud\\business\\alumnobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\alonso\\OneDrive\\SEM_COMPLET_PRACTICA_II\\SENATICRUD\\SENATIAPI\\Alumno.cs",
+              "RelativeDocumentMoniker": "SENATIAPI\\Alumno.cs",
+              "ToolTip": "C:\\Users\\alonso\\OneDrive\\SEM_COMPLET_PRACTICA_II\\SENATICRUD\\SENATIAPI\\Alumno.cs",
+              "RelativeToolTip": "SENATIAPI\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T04:47:13.083Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnoData.cs",
+              "DocumentMoniker": "C:\\Users\\alonso\\OneDrive\\SEM_COMPLET_PRACTICA_II\\SENATICRUD\\SENATICRUD\\Data\\AlumnoData.cs",
+              "RelativeDocumentMoniker": "SENATICRUD\\Data\\AlumnoData.cs",
+              "ToolTip": "C:\\Users\\alonso\\OneDrive\\SEM_COMPLET_PRACTICA_II\\SENATICRUD\\SENATICRUD\\Data\\AlumnoData.cs",
+              "RelativeToolTip": "SENATICRUD\\Data\\AlumnoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T04:47:14.705Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlumnoBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\alonso\\OneDrive\\SEM_COMPLET_PRACTICA_II\\SENATICRUD\\SENATICRUD\\Business\\AlumnoBusiness.cs",
+              "RelativeDocumentMoniker": "SENATICRUD\\Business\\AlumnoBusiness.cs",
+              "ToolTip": "C:\\Users\\alonso\\OneDrive\\SEM_COMPLET_PRACTICA_II\\SENATICRUD\\SENATICRUD\\Business\\AlumnoBusiness.cs",
+              "RelativeToolTip": "SENATICRUD\\Business\\AlumnoBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T04:47:15.939Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\alonso\\OneDrive\\SEM_COMPLET_PRACTICA_II\\SENATICRUD\\SENATICRUD\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "SENATICRUD\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\alonso\\OneDrive\\SEM_COMPLET_PRACTICA_II\\SENATICRUD\\SENATICRUD\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "SENATICRUD\\Controllers\\AlumnoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T04:47:16.704Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alonso\\OneDrive\\SEM_COMPLET_PRACTICA_II\\SENATICRUD\\SENATICRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "SENATICRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\alonso\\OneDrive\\SEM_COMPLET_PRACTICA_II\\SENATICRUD\\SENATICRUD\\appsettings.json",
+              "RelativeToolTip": "SENATICRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T04:47:17.709Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

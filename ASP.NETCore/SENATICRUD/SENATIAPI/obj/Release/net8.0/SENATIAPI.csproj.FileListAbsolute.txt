@@ -1,0 +1,28 @@
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\bin\Release\net8.0\SENATIAPI.exe
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\bin\Release\net8.0\SENATIAPI.deps.json
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\bin\Release\net8.0\SENATIAPI.runtimeconfig.json
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\bin\Release\net8.0\SENATIAPI.dll
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\bin\Release\net8.0\SENATIAPI.pdb
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.AssemblyInfoInputs.cache
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.AssemblyInfo.cs
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.csproj.CoreCompileInputs.cache
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.dll
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\obj\Release\net8.0\refint\SENATIAPI.dll
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.pdb
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.genruntimeconfig.cache
+C:\Users\alonso\OneDrive\SEM COMPLET PRACTICA II\SENATICRUD\SENATIAPI\obj\Release\net8.0\ref\SENATIAPI.dll
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\bin\Release\net8.0\SENATIAPI.exe
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\bin\Release\net8.0\SENATIAPI.deps.json
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\bin\Release\net8.0\SENATIAPI.runtimeconfig.json
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\bin\Release\net8.0\SENATIAPI.dll
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\bin\Release\net8.0\SENATIAPI.pdb
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.AssemblyInfoInputs.cache
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.AssemblyInfo.cs
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.csproj.CoreCompileInputs.cache
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.dll
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\obj\Release\net8.0\refint\SENATIAPI.dll
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.pdb
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\obj\Release\net8.0\SENATIAPI.genruntimeconfig.cache
+C:\Users\alonso\source\repos\SENATICRUD\SENATIAPI\obj\Release\net8.0\ref\SENATIAPI.dll

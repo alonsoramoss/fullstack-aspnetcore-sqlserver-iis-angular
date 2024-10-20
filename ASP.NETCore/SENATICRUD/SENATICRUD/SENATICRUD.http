@@ -1,0 +1,6 @@
+@SENATICRUD_HostAddress = http://localhost:5218
+
+GET {{SENATICRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
