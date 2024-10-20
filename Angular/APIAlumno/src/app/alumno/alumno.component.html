@@ -1,0 +1,87 @@
+<div>
+  <h2>Tabla Alumno</h2>
+  <table class="table table-hover">
+    <thead class="table-success">
+      <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Nombres</th>
+        <th scope="col">Apellidos</th>
+        <th scope="col">DNI</th>
+        <th scope="col">Edad</th>
+        <th scope="col">Estado Alumno</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let alumno of alumnoList">
+        <td>{{ alumno.id }}</td>
+        <td>{{ alumno.nombres }}</td>
+        <td>{{ alumno.apellidos }}</td>
+        <td>{{ alumno.dni }}</td>
+        <td>{{ alumno.edad }}</td>
+        <td>{{ alumno.enabled ? 'Habilitado' : 'Deshabilitado' }}</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  
+  <h2>Tabla Alumno Grado Instrucción</h2>
+  <table class="table table-hover">
+    <thead class="table-info">
+      <tr>
+        <th scope="col">ID Alumno</th>
+        <th scope="col">Nombres</th>
+        <th scope="col">Apellidos</th>
+        <th scope="col">DNI</th>
+        <th scope="col">Edad</th>
+        <th scope="col">Estado Alumno</th>
+        <th scope="col">ID Grado Instrucción</th>
+        <th scope="col">Descripción Grado Instrucción</th>
+        <th scope="col">Estado Grado Instrucción</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let alumno of alumnoGradoInstruccionList">
+        <td>{{ alumno.alumnoId }}</td>
+        <td>{{ alumno.nombres }}</td>
+        <td>{{ alumno.apellidos }}</td>
+        <td>{{ alumno.dni }}</td>
+        <td>{{ alumno.edad }}</td>
+        <td>{{ alumno.alumnoEnabled ? 'Habilitado' : 'Deshabilitado' }}</td>
+        <td>{{ alumno.gradoInstruccionId }}</td>
+        <td>{{ alumno.gradoInstruccionDescripcion }}</td>
+        <td>{{ alumno.gradoInstruccionEnabled ? 'Habilitado' : 'Deshabilitado' }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
