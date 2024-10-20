@@ -11,6 +11,6 @@
 2. **Servicio**: 
    - Se encarga de la lógica de negocio y utiliza la capa de datos para interactuar con la base de datos, obteniendo o manipulando los datos necesarios.
 3. **Capa de Datos**: 
-   - Maneja la comunicación con la base de datos SQL Server, realizando las operaciones de creación, lectura, actualización y eliminación (CRUD).
+   - Maneja la comunicación con la base de datos SQL Server, realizando operaciones CRUD.
 4. **Respuesta al Usuario**: 
    - Los resultados de las operaciones son devueltos al controlador, que prepara la respuesta adecuada para el usuario.
