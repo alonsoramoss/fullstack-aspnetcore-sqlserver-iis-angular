@@ -1,16 +1,12 @@
-# Desarrollo de servicio web con ASP.NET Core y Angular
+# Aplicación Full Stack: ASP.NET Core, SQL Server, IIS y Angular
 
-## Tecnologías utilizadas
-- **ASP.NET Core:** Implementación de la lógica de negocio mediante clases que reflejan las tablas existentes y llamadas a procedimientos almacenados en la capa de datos.
-- **SQL Server:** Base de datos que contiene las tablas Alumnos y GradoInstruccion.
-- **Angular:** Realiza solicitudes HTTP a las APIs del backend desplegadas en el servidor local IIS para obtener, agregar, actualizar o eliminar datos de los alumnos. Los datos recibidos se muestran en la interfaz de usuario organizada en tablas.
+## Tecnologías
+- **ASP.NET Core:** Implementación de la lógica de negocio a través de clases que representan entidades y llamadas a procedimientos almacenados.
+- **SQL Server:** Base de datos que contiene las tablas *Alumnos* y *GradoInstruccion*.
+- **IIS (Internet Information Services)**: Despliegue local del backend para exponer las APIs REST.
+- **Angular:** Interfaz de usuario que consume las APIs mediante solicitudes HTTP para realizar operaciones CRUD.
 
 ## Arquitectura
-1. **Controlador**
-   - Recibe las solicitudes del usuario y llama a los métodos del servicio correspondiente.
-2. **Servicio**
-   - Se encarga de la lógica de negocio y utiliza la capa de datos para interactuar con la base de datos, obteniendo o manipulando los datos necesarios.
-3. **Capa de Datos**
-   - Maneja la comunicación con la base de datos SQL Server, realizando operaciones CRUD.
-4. **Respuesta al Usuario**
-   - Los resultados de las operaciones son devueltos al controlador, que prepara la respuesta adecuada para el usuario.
+- **Controller (Controlador):** Expone los endpoints de la API y recibe las solicitudes HTTP del frontend, las procesa y delega las operaciones a la lógica de negocio.
+- **Business (Lógica de negocio):** Se encarga de validar, transformar o coordinar los datos antes de enviarlos a la capa de datos o devolver una respuesta al controlador.
+- **Data (Capa de datos):** Realiza las operaciones mediante procedimientos almacenados y devuelve los resultados a la lógica de negocio.
