@@ -2,7 +2,7 @@
 
 ## Tecnologías
 - **ASP.NET Core:** Implementación de la lógica de negocio a través de clases que representan entidades y llamadas a procedimientos almacenados.
-- **SQL Server:** Base de datos que contiene las tablas *Alumnos* y *GradoInstruccion*.
+- **SQL Server:** Base de datos que contiene las tablas `Alumnos` y `GradoInstruccion`.
 - **IIS (Internet Information Services)**: Despliegue local del backend para exponer la API REST.
 - **Angular:** Interfaz de usuario que consume la API mediante solicitudes HTTP para realizar operaciones CRUD.
 
