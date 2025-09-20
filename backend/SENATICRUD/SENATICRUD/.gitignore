@@ -1,0 +1,3 @@
+# Build output (ignorar archivos generados)
+bin/
+obj/
